@@ -7,7 +7,7 @@ public class Chapter04 {
 		name = "BATMAN";
 		System.out.println(name);
 		
-		int Luckynum = 7;
+		final int Luckynum = 7;
 		System.out.println(Luckynum);
 	}
 
